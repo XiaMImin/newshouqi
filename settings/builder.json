@@ -1,0 +1,51 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "http://172.1.1.19:7456/preview-android-instant/",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": true,
+  "excludeScenes": [
+    "5d063b50-72f7-44f1-b255-434a6a0bab4d"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.zyyapp.newshouqi",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "257c565d-882f-42d2-9b9b-20cd4cac8fc6",
+  "title": "newshouqi",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx8c8af031e097ede6",
+    "orientation": "landscape",
+    "subContext": ""
+  },
+  "xxteaKey": "0c28fdab-660a-41",
+  "zipCompressJs": true
+}

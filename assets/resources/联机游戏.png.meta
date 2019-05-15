@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "09dca66d-7c18-49d4-bad5-7c57d93ce95e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "联机游戏": {
+      "ver": "1.0.3",
+      "uuid": "93e5b7e9-ea4e-44c4-a616-b88e8176df92",
+      "rawTextureUuid": "09dca66d-7c18-49d4-bad5-7c57d93ce95e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 195,
+      "height": 57,
+      "rawWidth": 195,
+      "rawHeight": 57,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

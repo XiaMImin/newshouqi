@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "fb1f6b3e-cbce-433a-9b33-2fa4565f18d4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "离开房间": {
+      "ver": "1.0.3",
+      "uuid": "9fb64c18-6965-4573-b9a6-d636ddb89e0d",
+      "rawTextureUuid": "fb1f6b3e-cbce-433a-9b33-2fa4565f18d4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 195,
+      "height": 57,
+      "rawWidth": 195,
+      "rawHeight": 57,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
